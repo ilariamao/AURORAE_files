@@ -45,8 +45,8 @@ stakeholders. </p>
 <p>Srdjan Dobricic (JRC): <a href="srdan.dobricic@ec.europa.eu">srdan.dobricic@ec.europa.eu</a>
 <br>Ilaria Crotti (JRC): <a href="ilaria.crotti@ec.europa.eu">ilaria.crotti@ec.europa.eu</a></br></p>
 
-<h3>Further information, data and codes</h3>
-<p>Visit our <a href="https://github.com/ilariamao/AURORAE_files">GitHub page</a></p>
+<h3>Codes</h3>
+<p>t.b.d.e</a></p>
 
 </body>
 </html>
