@@ -160,5 +160,5 @@
 158	SPO-SE274953_00005_100	Skellefteå Kv Pantern	Sweden	traffic	64.7495	20.9601	European Envioronmental Agency (EEA)	15.7320625	34.4712378460428	31.64384348496147	Moderate	Moderate	
 159	SPO-SE0100A_00005_100	Luleå Sandviksgatan	Sweden	traffic	65.5806	22.1404	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
 160	SPO-SE31752_00005_100	Piteå Prästgårdsgatan	Sweden	traffic	65.3181	21.4792	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-161	FI_5_101983	Muonio Sammaltunturi	Finland		67.97	24.12	Finnish Meteorological Institute				Very unhealthy	Very unhealthy	
+161	FI_5_101983	Muonio Sammaltunturi	Finland		67.97	24.12	Finnish Meteorological Institute	0.5260869565217391	1.4967648594275764	3.4926064273585444	Good	Good	
 162	FI_5_100656	Virolahti Koivuniemi Ääpälä	Finland		60.53	27.68	Finnish Meteorological Institute				Very unhealthy	Very unhealthy	
