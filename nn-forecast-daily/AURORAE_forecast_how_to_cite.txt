@@ -1,0 +1,3 @@
+How to cite:
+"Crotti, I., Cuzzucoli, A., DeMarchi, D., Ramalli, E., Selmi, L., Trandafir, I., PASINI, A., & DOBRICIC, S. (2025). 
+Deliverable 4.13 - AURORAE service: Model description and forecast delivery for the local atmospheric pollution forecasts. Zenodo. https://doi.org/10.5281/zenodo.15864354"
