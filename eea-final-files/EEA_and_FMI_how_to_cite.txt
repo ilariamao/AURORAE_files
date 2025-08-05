@@ -1,0 +1,3 @@
+How to cite: 
+European Envirnonmental Agency (EEA), Air Quality Download Service, https://eeadmz1-downloads-webapp.azurewebsites.net
+Finnish Meteorological Institute (FMI), FMI Open Data, https://en.ilmatieteenlaitos.fi/download-observations-questions
