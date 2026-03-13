@@ -1,164 +1,119 @@
-	Station Code	Station Name	Country	Station type	Latitude	Longitude	Network	PM10 measured concentration (microg/m^3)	PM10 today forecast mean concentration (microg/m^3)	PM10 tomorrow forecast mean concentration (microg/m^3)	Today air quality	Tomorrow air quality	Actions
-0	SPO-DK0034A_00005_100	Copenhagen/1103	Denmark	traffic	55.6743	12.5711	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-1	SPO-DK0012R_00005_101	Risoe	Denmark	background	55.6942	12.0889	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-2	SPO-FI00570_00005_100	Raahen keskusta 2	Finland	traffic	64.6834	24.4816	European Envioronmental Agency (EEA)	7.519973833333334	10.725844217383344	12.159169622089552	Good	Good	
-3	SPO-FI00349_00005_100	Utö	Finland	background	59.7792	21.374	European Envioronmental Agency (EEA)	4.607796041666667	4.822205647178318	4.2326373198758	Good	Good	
-4	SPO-FI00427_00005_100	Matorova	Finland	background	68.0005	24.2457	European Envioronmental Agency (EEA)	2.983374	3.489968797434931	3.2604126826576563	Good	Good	
-5	SPO-FI00893_00005_100	Virolahti 2	Finland	background	60.53	27.6754	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-6	SPO-FI00549_00005_100	Pirkankatu	Finland	traffic	61.4987	23.7357	European Envioronmental Agency (EEA)	4.991468	6.993883506111477	9.993801573048467	Good	Good	
-7	SPO-FI00838_00005_100	Epila 2	Finland	traffic	61.5085	23.6758	European Envioronmental Agency (EEA)	16.355760333333336	9.051172795503035	10.209281786628392	Good	Good	
-8	SPO-FI00208_00005_101	Luukki	Finland	background	60.3144	24.6849	European Envioronmental Agency (EEA)	3.861766391304348	4.959719730460125	4.3971008425173554	Good	Good	
-9	SPO-FI00370_00005_100	Tikkurila 3	Finland	traffic	60.2899	25.0395	European Envioronmental Agency (EEA)	11.58153125	17.43450741145922	12.55427891275157	Good	Good	
-10	SPO-FI00425_00005_100	Kallio 2	Finland	background	60.1874	24.9506	European Envioronmental Agency (EEA)	10.959629958333332	14.149495829706607	10.062034213024637	Good	Good	
-11	SPO-FI00564_00005_100	Mannerheimintie	Finland	traffic	60.1696	24.9392	European Envioronmental Agency (EEA)	24.203314750000004	17.843135211778723	16.190309690392535	Good	Good	
-12	SPO-FI00781_00005_100	Vartiokylä Huivipolku	Finland	background	60.2239	25.1024	European Envioronmental Agency (EEA)	9.937303458333334	13.787909134574559	9.44489568212758	Good	Good	
-13	SPO-FI00841_00005_100	Leppävaara 4	Finland	traffic	60.2202	24.8113	European Envioronmental Agency (EEA)	16.377201916666667	10.966086802275285	11.53652052257372	Good	Good	
-14	SPO-FI00902_00005_100	Mäkelänkatu	Finland	traffic	60.1964	24.952	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-15	SPO-FI00301_00005_100	Pyykösjärvi	Finland	background	65.0434	25.4979	European Envioronmental Agency (EEA)	3.2310538333333336	4.920801618824834	8.030607658883799	Good	Good	
-16	SPO-FI00446_00005_100	Oulun keskusta 2	Finland	traffic	65.01	25.4713	European Envioronmental Agency (EEA)	5.550321458333333	9.304799411607826	11.819409577742867	Good	Good	
-17	SPO-FI00952_00005_100	Jyväskylä Hannikaisenkatu	Finland	traffic	62.2382	25.7479	European Envioronmental Agency (EEA)	3.6940137500000003	5.781663169031558	9.004711161489071	Good	Good	
-18	SPO-FI00455_00005_100	Laune	Finland	traffic	60.967	25.6549	European Envioronmental Agency (EEA)	5.503580500000001	7.408483567445175	9.470654072968856	Good	Good	
-19	SPO-FI00889_00005_100	Saimaankatu	Finland	traffic	60.9913	25.6658	European Envioronmental Agency (EEA)	4.476927208333334	7.4213151931762695	8.293337376221366	Good	Good	
-20	SPO-FI00444_00005_100	Naantalin keskusta	Finland	traffic	60.4674	22.0284	European Envioronmental Agency (EEA)	6.9041265	11.708291261092477	9.521669885386592	Good	Good	
-21	SPO-FI00558_00005_100	Maaherrankatu	Finland	traffic	62.8933	27.6869	European Envioronmental Agency (EEA)	4.094243583333333	15.842655264812967	16.313931485880975	Good	Good	
-22	SPO-FI00839_00005_100	Tasavallankatu	Finland	traffic	62.882	27.6619	European Envioronmental Agency (EEA)	4.380542541666667	13.007076066473257	18.07143269414487	Good	Good	
-23	SPO-FI00928_00005_100	Pori Paanakedonkatu	Finland	traffic	61.4823	21.8133	European Envioronmental Agency (EEA)	12.537209625000001	14.27519006314485	11.855260455090066	Good	Good	
-24	SPO-FI00080_00005_100	Rautionkylä	Finland	traffic	61.2381	28.8737	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-25	SPO-FI00378_00005_100	Lauritsala	Finland	traffic	61.0719	28.2641	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-26	SPO-FI00424_00005_100	Mansikkala	Finland	traffic	61.1889	28.7701	European Envioronmental Agency (EEA)	5.537353416666668	7.164999205133189	9.341937531595645	Good	Good	
-27	SPO-FI00433_00005_100	Teppanala	Finland	industrial	61.153	28.8101	European Envioronmental Agency (EEA)	6.274120739130435	6.9363396893376885	8.624474608379861	Good	Good	
-28	SPO-FI00434_00005_100	Joutsenon keskusta	Finland	traffic	61.1171	28.4985	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-29	SPO-FI00606_00005_100	Lappeenrannan keskusta 4	Finland	traffic	61.0558	28.1843	European Envioronmental Agency (EEA)	4.272978083333334	6.795114175133083	7.189186272413834	Good	Good	
-30	SPO-FI00972_00005_100	Lohja Harjula	Finland	background	60.249	24.0695	European Envioronmental Agency (EEA)	9.140545375	7.4619824989982275	8.212233543395996	Good	Good	
-31	SPO-FI00404_00005_100	Keskusta Pitkänsillankatu	Finland	traffic	63.8376	23.1316	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-32	SPO-FI00892_00005_100	Kankaan Koulu	Finland	traffic	60.8704	26.701	European Envioronmental Agency (EEA)	6.2041304166666675	8.389415575110394	10.355746372886326	Good	Good	
-33	SPO-FI00179_00005_100	Pirkkala	Finland	industrial	61.3316	22.1431	European Envioronmental Agency (EEA)	10.050546041666667	7.984184202940567	7.516848377559496	Good	Good	
-34	SPO-FI00184_00005_100	Kaleva	Finland	industrial	61.3135	22.135	European Envioronmental Agency (EEA)	13.077389916666668	7.53823124844095	6.534245916034864	Good	Good	
-35	SPO-FI00465_00005_100	Vaasan keskusta	Finland	traffic	63.0951	21.6183	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-36	SPO-FI00586_00005_100	Vaasa vesitorni	Finland	background	63.0935	21.6127	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-37	SPO-FI00397_00005_100	Bottenviksvägen	Finland	traffic	63.6791	22.7184	European Envioronmental Agency (EEA)	3.745345625	6.7983516195546025	12.145933959795082	Good	Good	
-38	SPO-IS0005A_00005_103	Reykjavik Grensas	Iceland	traffic	64.1301	-21.8747	European Envioronmental Agency (EEA)	11.483541666666667	15.848454558331033	17.421191754548445	Good	Good	
-39	SPO-IS0052A_00005_100	Akureyri Strandgata (við Hof)	Iceland	traffic	65.6841	-18.0882	European Envioronmental Agency (EEA)	14.041666666666666	11.222348379052203	13.803132368170697	Good	Good	
-40	SPO-IS0025A_00005_100	Grundartangi Kríuvarða	Iceland	industrial	64.3736	-21.7591	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-41	SPO-IS0041A_00005_100	Grundartangi Gröf	Iceland	industrial	64.3342	-21.8357	European Envioronmental Agency (EEA)	11.190299999999999	8.415268524833348	6.851843191229778	Good	Good	
-42	SPO-IS0037A_00005_100	Kópavogur Dalsmári	Iceland	background	64.105	-21.889	European Envioronmental Agency (EEA)	10.917625000000001	11.494872632233992	13.756112306014352	Good	Good	
-43	SPO-IS0046A_00005_101	Hafnarfjörður Norðurhella	Iceland	background	64.0442	-21.9854	European Envioronmental Agency (EEA)	13.9463875	9.393645659736965	8.395760556925898	Good	Good	
-44	SPO-IS0049A_00005_100	PCC norður	Iceland	industrial	66.0793	-17.3422	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-45	SPO-IS0050A_00005_100	PCC suður	Iceland	industrial	66.0549	-17.3476	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-46	SPO_NO0071A_5_38	Manglerud	Norway	traffic	59.8986	10.8149	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-47	SPO_NO0093A_5_1039	Hjortnes	Norway	traffic	59.9113	10.704	European Envioronmental Agency (EEA)	18.83291666666667	27.970679656318996	29.40321963766347	Moderate	Moderate	
-48	SPO_NO0095A_5_934	Smestad	Norway	traffic	59.9325	10.6699	European Envioronmental Agency (EEA)	22.152772708333334	17.15033883633821	19.740806123484735	Good	Good	
-49	SPO_NO0101A_5_332	Rv 4 Aker sykehus	Norway	traffic	59.941	10.798	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-50	SPO_NO0122A_5_2945	E6 Alna senter	Norway	traffic	59.9256	10.8504	European Envioronmental Agency (EEA)	24.379070875	22.84156094426694	22.015905007072117	Good	Good	
-51	SPO_NO0002R_5_1572	Birkenesobservatoriet	Norway	background	58.3885	8.2519	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-52	SPO_NO0039R_5_1546	Kårvatn	Norway	background	62.7825	8.8766	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-53	SPO_NO0056R_5_1539	Hurdal25	Norway	background	60.3729	11.0741	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-54	SPO_NO0011A_5_19	Kirkeveien	Norway	traffic	59.9323	10.7245	European Envioronmental Agency (EEA)	20.4709865	14.080011875733085	14.595923092054283	Good	Good	
-55	SPO_NO0057A_5_41	Alnabru	Norway	traffic	59.9277	10.8466	European Envioronmental Agency (EEA)	20.587994333333334	20.270250403362773	19.80285180133322	Good	Good	
-56	SPO_NO0072A_5_352	Skøyen	Norway	background	59.9197	10.6897	European Envioronmental Agency (EEA)	23.765103125	16.412673369697902	19.929245326829992	Good	Good	
-57	SPO_NO0073A_5_552	Sofienbergparken	Norway	background	59.923	10.7657	European Envioronmental Agency (EEA)	21.365399250000007	11.982198528621508	13.703127425649893	Good	Good	
-58	SPO_NO0083A_5_793	Bygdøy Alle	Norway	traffic	59.9193	10.6965	European Envioronmental Agency (EEA)	21.400000000000002	19.480891476506773	23.126281323640242	Good	Good	
-59	SPO_NO0140A_5_3171	Spikersuppa	Norway	background	59.9141	10.736	European Envioronmental Agency (EEA)	20.655120416666666	13.31739035896633	13.468526342640752	Good	Good	
-60	SPO_NO0143A_5_3173	Vahl skole	Norway	traffic	59.9169	10.766	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-61	SPO_NO0146A_5_3145	Loallmenningen	Norway	background	59.9031	10.7584	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-62	SPO_NO0059A_5_11	Danmarks plass	Norway	traffic	60.3741	5.3404	European Envioronmental Agency (EEA)	28.25126366666667	17.00910062375276	16.633428324823793	Good	Good	
-63	SPO_NO0108A_5_2071	Rolland Åsane	Norway	background	60.4627	5.3324	European Envioronmental Agency (EEA)	20.138850416666667	11.710053215856137	9.347885629405146	Good	Good	
-64	SPO_NO0109A_5_2067	Loddefjord	Norway	traffic	60.3611	5.2369	European Envioronmental Agency (EEA)	30.903795833333334	16.0998650011809	13.819129736527152	Good	Good	
-65	SPO_NO0120A_5_2902	Klosterhaugen	Norway	background	60.3959	5.3127	European Envioronmental Agency (EEA)	27.683373	13.051762083302373	11.17914398856785	Good	Good	
-66	SPO_NO0121A_5_2888	Rådal	Norway	traffic	60.2943	5.3246	European Envioronmental Agency (EEA)	29.27759283333334	13.32617481895115	10.708829900492793	Good	Good	
-67	SPO_NO0135A_5_3126	Backeparken	Norway	background	59.7495	10.1653	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-68	SPO_NO0136A_5_3124	Vårveien	Norway	traffic	59.7536	10.1444	European Envioronmental Agency (EEA)	25.766947416666667	19.649052018704623	23.906371904456098	Good	Good	
-69	SPO_NO0060A_5_1685	Elgeseter	Norway	traffic	63.4174	10.3968	European Envioronmental Agency (EEA)	7.134788583333333	19.10490590593089	14.954847947410915	Good	Good	
-70	SPO_NO0089A_5_1082	Torvet	Norway	background	63.4304	10.3936	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-71	SPO_NO0102A_5_1530	E6-Tiller	Norway	traffic	63.3576	10.3717	European Envioronmental Agency (EEA)	23.678037173913047	12.685374964838443	13.284897964933645	Good	Good	
-72	SPO_NO0145A_5_3060	Omkjøringsvegen	Norway	traffic	63.4105	10.4444	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-73	SPO_NO0061A_5_713	Lensmannsdalen	Norway	traffic	59.1593	9.6357	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-74	SPO_NO0106A_5_1231	Sverresgate	Norway	traffic	59.1382	9.6522	European Envioronmental Agency (EEA)	20.735	15.611846136010211	17.785560400589652	Good	Good	
-75	SPO_NO0115A_5_2473	Furulund	Norway	industrial	59.0573	9.6956	European Envioronmental Agency (EEA)	30.26488504166667	14.601656789365022	15.271878864454186	Good	Good	
-76	SPO_NO0118A_5_2723	Knarrdalstranda	Norway	background	59.1335	9.6219	European Envioronmental Agency (EEA)	31.300281083333335	19.934843229210895	18.804804097051207	Good	Good	
-77	SPO_NO0063A_5_192	Stener Heyerdahl	Norway	background	58.1489	7.9918	European Envioronmental Agency (EEA)	26.606737999999996	15.412419630133588	12.05949074289073	Good	Good	
-78	SPO_NO0134A_5_3121	Bjørndalssletta	Norway	traffic	58.1623	8.0238	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-79	SPO_NO0065A_5_52	Våland	Norway	background	58.9616	5.7314	European Envioronmental Agency (EEA)	40.991220750000004	15.905795304671578	12.59446674844493	Good	Good	
-80	SPO_NO0076A_5_46	Kannik	Norway	traffic	58.9642	5.7279	European Envioronmental Agency (EEA)	43.22131195833334	14.652562224346658	10.916219877160113	Good	Good	
-81	SPO_NO0125A_5_3017	Schancheholen	Norway	traffic	58.9519	5.7219	European Envioronmental Agency (EEA)	47.943440875	18.419742128123406	13.782893014990766	Good	Good	
-82	SPO_NO0141A_5_3178	Vågen	Norway	background	58.9726	5.7265	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-83	SPO_NO0074A_5_539	Bankplassen	Norway	traffic	61.1129	10.4649	European Envioronmental Agency (EEA)	18.662480125	20.4178379929584	21.531951966493025	Good	Good	
-84	SPO_NO0075A_5_544	Lillehammer barnehage	Norway	background	61.1209	10.4656	European Envioronmental Agency (EEA)	15.864024958333337	15.46247086317643	16.4616727621659	Good	Good	
-85	SPO_NO0079A_5_392	Hansjordnesbukta	Norway	traffic	69.6562	18.9637	European Envioronmental Agency (EEA)	11.84509	11.572194462237151	13.547013199847678	Good	Good	
-86	SPO_NO0124A_5_2957	Rambergan	Norway	background	69.6543	18.9564	European Envioronmental Agency (EEA)	9.485742625	8.009656429290771	8.647392853446629	Good	Good	
-87	SPO_NO0084A_5_967	St.Croix	Norway	traffic	59.2103	10.9454	European Envioronmental Agency (EEA)	28.14548458333334	20.603938600291375	16.683536653933317	Good	Good	
-88	SPO_NO0114A_5_2325	Bekkestua	Norway	background	59.9182	10.5839	European Envioronmental Agency (EEA)	25.27916666666667	14.44495037327642	19.168150134708572	Good	Good	
-89	SPO_NO0142A_5_3183	E18 Høvik kirke	Norway	traffic	59.8988	10.5759	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-90	SPO_NO0110A_5_2064	Alvim	Norway	traffic	59.2738	11.0892	European Envioronmental Agency (EEA)	26.334723125	14.062953928242559	12.77459186056386	Good	Good	
-91	SPO_NO0112A_5_1221	Kransen	Norway	traffic	59.4335	10.6618	European Envioronmental Agency (EEA)	22.86712575	15.004129326861838	13.849018718885338	Good	Good	
-92	SPO_NO0119A_5_2701	Leiret	Norway	traffic	60.8836	11.5593	European Envioronmental Agency (EEA)	10.167437041666666	16.360777150029723	19.906489123468813	Good	Good	
-93	SPO_NO0104A_5_1671	Vangsveien Hamar	Norway	traffic	60.7965	11.0978	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-94	SPO_NO0111A_5_1692	Vigernes	Norway	traffic	59.9555	11.074	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-95	SPO_NO0128A_5_2972	Nedre Langgate	Norway	traffic	59.2637	10.4112	European Envioronmental Agency (EEA)	37.02965833333334	24.084580462911855	20.52382232831872	Good	Good	
-96	SPO_NO0129A_5_2950	Solheim	Norway	traffic	59.9286	10.9532	European Envioronmental Agency (EEA)	26.55474166666667	22.1651088465815	19.195106299027152	Good	Good	
-97	SPO_NO0127A_5_2964	Seljestad Rv83	Norway	traffic	68.7922	16.5374	European Envioronmental Agency (EEA)	3.25616975	4.100333493688832	4.65667740676714	Good	Good	
-98	SPO_NO0130A_5_3000	Ringsakervegen	Norway	traffic	60.8859	10.9379	European Envioronmental Agency (EEA)	23.95	21.147567199624103	21.93645335280377	Good	Good	
-99	SPO_NO0147A_5_3157	Vollaparken øst	Norway	background	59.9583	11.0429	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-100	SPO-SE0001A_00005_100	Malmö Rådhuset	Sweden	background	55.6064	13.002	European Envioronmental Agency (EEA)	39.69583333333333	18.413988901221234	15.986209247423256	Good	Good	
-101	SPO-SE0056A_00005_101	Landskrona Eriksgatan	Sweden	traffic	55.8774	12.8336	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-102	SPO-SE0058A_00005_100	Malmö Dalaplan	Sweden	traffic	55.5847	13.0062	European Envioronmental Agency (EEA)	48.45416666666667	20.714599899623703	17.88114518704622	Good	Good	
-103	SPO-SE0085A_00005_101	Helsingborg Drottninggatan	Sweden	traffic	56.0472	12.6916	European Envioronmental Agency (EEA)	47.665416666666665	24.80573156605596	18.093539279440176	Good	Good	
-104	SPO-SE155531_00005_100	Trelleborg Hamngatan	Sweden	traffic	55.3729	13.1575	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-105	SPO-SE38350_00005_100	Lund Trollebergsvägen	Sweden	traffic	55.7033	13.1803	European Envioronmental Agency (EEA)	41.117916666666666	21.005975267161492	15.508811245793881	Good	Good	
-106	SPO-SE343956_00005_100	Karlstad Jungmansgatan 8	Sweden	traffic	59.3767	13.4903	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-107	SPO-SE344172_00005_100	Västerås Stora Gatan 78	Sweden	traffic	59.6077	16.5359	European Envioronmental Agency (EEA)	12.291000000000002	8.79021984597911	16.12220527814782	Good	Good	
-108	SPO-SE344172_00005_101	Västerås Stora Gatan 78	Sweden	traffic	59.6077	16.5359	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-109	SPO-SE0003A_00005_100	Stockholm Hornsgatan 108 Gata	Sweden	traffic	59.3172	18.0487	European Envioronmental Agency (EEA)	12.963662416666665	15.375557277513588	16.734788480012313	Good	Good	
-110	SPO-SE0022A_00005_100	Stockholm Torkel Knutssongatan	Sweden	background	59.316	18.0578	European Envioronmental Agency (EEA)	11.308991624999999	10.440757025843082	11.114165140234906	Good	Good	
-111	SPO-SE0027A_00005_100	Stockholm Sveavägen 59 Gata	Sweden	traffic	59.3408	18.0583	European Envioronmental Agency (EEA)	15.84866241666667	12.783918484397557	17.29334300497304	Good	Good	
-112	SPO-SE0066A_00005_100	Norr Malma	Sweden	background	59.8324	18.6313	European Envioronmental Agency (EEA)	6.174529124999999	9.353153233942779	7.589754581451416	Good	Good	
-113	SPO-SE0071A_00005_100	Sollentuna E4 Häggvik	Sweden	traffic	59.4435	17.9224	European Envioronmental Agency (EEA)	11.770366625	12.545918423196543	11.752792399862539	Good	Good	
-114	SPO-SE0072A_00005_100	Södertälje Turingegatan 26	Sweden	traffic	59.1981	17.6211	European Envioronmental Agency (EEA)	22.19299979166667	12.988506337870723	14.56685375130695	Good	Good	
-115	SPO-SE0087A_00005_100	Stockholm E4/E20 Lilla Essingen	Sweden	traffic	59.3255	18.0044	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-116	SPO-SE0114A_00005_100	Södertälje Birkakorset	Sweden	traffic	59.2013	17.6348	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-117	SPO-SE0117A_00005_101	Visby Österväg 17	Sweden	traffic	57.6369	18.3036	European Envioronmental Agency (EEA)	41.349583125	28.63573227757993	25.717162339583687	Moderate	Moderate	
-118	SPO-SE156417_00005_100	Uppsala Kungsgatan 67	Sweden	traffic	59.8571	17.6463	European Envioronmental Agency (EEA)	8.43902075	12.095728076022604	13.390718107638152	Good	Good	
-119	SPO-SE157992_00005_100	Stockholm St Eriksgatan 83	Sweden	traffic	59.3405	18.037	European Envioronmental Agency (EEA)	13.110816666666667	13.924759761146877	17.70467368416164	Good	Good	
-120	SPO-SE157993_00005_100	Stockholm E4 Skonertvägen	Sweden	traffic	59.3133	18.004	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-121	SPO-SE159402_00005_100	Sollentuna Danderydsvägen	Sweden	traffic	59.4459	17.955	European Envioronmental Agency (EEA)	6.19035825	8.920664082402768	10.864242284194283	Good	Good	
-122	SPO-SE159403_00005_100	Stockholm Folkungagatan 70	Sweden	traffic	59.3146	18.0771	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-123	SPO-SE159404_00005_100	Uppsala Dragarbrunnsgatan 23 tak	Sweden	background	59.8605	17.6376	European Envioronmental Agency (EEA)	7.600483291666667	10.781490968621295	8.23095528975777	Good	Good	
-124	SPO-SE164905_00005_100	Solna Råsundavägen 107	Sweden	traffic	59.3651	17.9969	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-125	SPO-SE274652_00005_100	Sollentuna Sollentunavägen 192	Sweden	traffic	59.4336	17.9497	European Envioronmental Agency (EEA)	10.5429125	11.243419377700143	12.174656080163043	Good	Good	
-126	SPO-SE301111_00005_100	Norrköping Kungsgatan 32	Sweden	traffic	58.5915	16.1779	European Envioronmental Agency (EEA)	26.23320829166667	13.924740957177203	10.038553123888763	Good	Good	
-127	SPO-SE301113_00005_100	Norrköping Trädgårdsgatan 21	Sweden	background	58.592	16.1893	European Envioronmental Agency (EEA)	24.866125	10.81810476468957	8.185678865598595	Good	Good	
-128	SPO-SE301757_00005_100	Sundbyberg Tulegatan 9	Sweden	traffic	59.3643	17.9763	European Envioronmental Agency (EEA)	12.030395791666669	11.999147062716277	11.801336806753408	Good	Good	
-129	SPO-SE313381_00005_100	Visby Brömsebroväg 8	Sweden	background	57.6399	18.3097	European Envioronmental Agency (EEA)	26.953166625000005	19.366320071013078	14.578753989675771	Good	Good	
-130	SPO-SE338683_00005_100	Gävle Staketgatan 22	Sweden	traffic	60.6762	17.1376	European Envioronmental Agency (EEA)	28.970949875000002	9.55098239235256	15.142123927240787	Good	Good	
-131	SPO-SE338685_00005_100	Linköping Hamngatan 10	Sweden	traffic	58.4124	15.6301	European Envioronmental Agency (EEA)	26.733541625	19.326861008353855	18.549190106599227	Good	Good	
-132	SPO-SE344250_00005_100	Danderyd Gymnasiet	Sweden	background	59.4156	18.0424	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-133	SPO-SE344252_00005_100	Danderyd Mörbyskolan	Sweden	background	59.3939	18.0441	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-134	SPO-SE37479_00005_100	Sollentuna Ekmans Väg 11	Sweden	traffic	59.489	17.9199	European Envioronmental Agency (EEA)	10.578883249999999	10.965515033058498	11.072003012118133	Good	Good	
-135	SPO-SE0004A_00005_100	Göteborg Femman	Sweden	background	57.709	11.9702	European Envioronmental Agency (EEA)	23.910845833333337	14.690495864204738	13.105435495791228	Good	Good	
-136	SPO-SE0005R_00005_101	Bredkälen	Sweden	background	63.8455	15.3197	European Envioronmental Agency (EEA)	1.4666666666666668	2.2443756953529688	2.0836047892985134	Good	Good	
-137	SPO-SE0014R_00005_100	Råö	Sweden	background	57.3936	11.9142	European Envioronmental Agency (EEA)	25.5625	16.30627914096998	12.110084906868313	Good	Good	
-138	SPO-SE0116A_00005_100	Hallahus	Sweden	background	56.0424	13.1486	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-139	SPO-SE159388_00005_100	Norunda Stenen	Sweden	background	60.0858	17.5053	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-140	SPO-SE159388_00005_101	Norunda Stenen	Sweden	background	60.0858	17.5053	European Envioronmental Agency (EEA)	2.560647826086957	3.4040492669395777	3.6546190510625425	Good	Good	
-141	SPO-SE0021A_00005_100	Göteborg Gårda	Sweden	traffic	57.7009	11.9946	European Envioronmental Agency (EEA)	46.366666666666674	17.237852552662726	21.214321343795113	Good	Good	
-142	SPO-SE0067A_00005_100	Göteborg Haga	Sweden	traffic	57.6979	11.9605	European Envioronmental Agency (EEA)	26.224474999999998	17.0682255288829	16.037112650663957	Good	Good	
-143	SPO-SE274590_00005_100	Göteborg Övre Husargatan	Sweden	traffic	57.6937	11.9568	European Envioronmental Agency (EEA)	26.14153333333334	16.863945380501125	14.058728383935016	Good	Good	
-144	SPO-SE0113A_00005_100	Borås Kungsgatan	Sweden	traffic	57.7208	12.9447	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-145	SPO-SE165095_00005_100	Hedemora Gussarvsgatan	Sweden	traffic	60.2814	15.9891	European Envioronmental Agency (EEA)	13.688041666666669	10.597448701443879	16.541971082272738	Good	Good	
-146	SPO-SE157868_00005_100	Jönköping Kungsgatan 2A	Sweden	traffic	57.7782	14.1595	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-147	SPO-SE36365_00005_100	Jönköping Lantmätaregränd	Sweden	background	57.7816	14.1737	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-148	SPO-SE0012A_00005_101	Timrå	Sweden	background	62.4868	17.3244	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-149	SPO-SE0095A_00005_100	Sundsvall Köpmangatan	Sweden	traffic	62.3886	17.3089	European Envioronmental Agency (EEA)	3.4830416666666664	9.768389266470205	10.353345041689666	Good	Good	
-150	SPO-SE09569_00005_100	Sundsvall Bergsgatan	Sweden	traffic	62.3865	17.3032	European Envioronmental Agency (EEA)	3.582916666666667	12.999980708827144	9.672227631444516	Good	Good	
-151	SPO-SE313140_00005_100	Örnsköldsvik Centralesplanaden - Nygatan 24	Sweden	traffic	63.2918	18.7175	European Envioronmental Agency (EEA)	7.408333333333334	11.65969413259755	13.406350747398708	Good	Good	
-152	SPO-SE181002_00005_100	Växjö Liedbergsgatan 11	Sweden	traffic	56.8799	14.7993	European Envioronmental Agency (EEA)	115.8125	28.241278938625168	21.764587734056555	Moderate	Good	
-153	SPO-SE32288_00005_100	Karlskrona N Smedjegatan Ö Köpmansgatan	Sweden	traffic	56.164	15.5889	European Envioronmental Agency (EEA)	70.65833333333335	20.32006711545198	16.36703155351722	Good	Good	
-154	SPO-SE181993_00005_100	Kalmar Södra Vägen	Sweden	traffic	56.6642	16.3336	European Envioronmental Agency (EEA)	55.81666666666666	17.98680765732475	14.287497914355734	Good	Good	
-155	SPO-SE36364_00005_100	Örebro Rudbecksskolan	Sweden	traffic	59.2683	15.2149	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-156	SPO-SE181259_00005_100	Östersund Rådhusgatan	Sweden	traffic	63.1739	14.6411	European Envioronmental Agency (EEA)	5.583333333333333	7.796449702718983	7.615179113719774	Good	Good	
-157	SPO-SE0059A_00005_100	Umeå Västra Esplanaden	Sweden	traffic	63.8289	20.2585	European Envioronmental Agency (EEA)	4.691666666666667	10.80600761330646	12.714108861011008	Good	Good	
-158	SPO-SE274953_00005_100	Skellefteå Kv Pantern	Sweden	traffic	64.7495	20.9601	European Envioronmental Agency (EEA)	9.769191666666668	9.470058866169142	11.470725100973379	Good	Good	
-159	SPO-SE0100A_00005_100	Luleå Sandviksgatan	Sweden	traffic	65.5806	22.1404	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-160	SPO-SE31752_00005_100	Piteå Prästgårdsgatan	Sweden	traffic	65.3181	21.4792	European Envioronmental Agency (EEA)				Very unhealthy	Very unhealthy	
-161	FI_5_101983	Muonio Sammaltunturi	Finland		67.97	24.12	Finnish Meteorological Institute	2.9124999999999996	3.719719834949659	3.620673101881276	Good	Good	
-162	FI_5_100656	Virolahti Koivuniemi Ääpälä	Finland		60.53	27.68	Finnish Meteorological Institute				Very unhealthy	Very unhealthy	
+	Station Code	Station Name	Country	Station type	Latitude	Longitude	Network	Date	PM10 measured concentration (microg/m^3)	PM10 today forecast mean concentration (microg/m^3)	PM10 tomorrow forecast mean concentration (microg/m^3)	Today air quality	Tomorrow air quality	Actions
+0	SPO-DK0034A_00005_100	Copenhagen/1103	Denmark	traffic	55.6743	12.5711	European Envioronmental Agency (EEA)	2026-03-07		62.75004577636719	60.341590881347656	Unhealthy	Unhealthy	
+1	SPO-DK0012R_00005_101	Risoe	Denmark	background	55.6942	12.0889	European Envioronmental Agency (EEA)	2026-03-07		21.97125244140625	21.107921600341797	Good	Good	
+2	SPO-FI00570_00005_100	Raahen keskusta 2	Finland	traffic	64.6834	24.4816	European Envioronmental Agency (EEA)	2026-03-07	7.519973833333334	4.170643329620361	3.489492416381836	Good	Good	
+3	SPO-FI00349_00005_100	Utö	Finland	background	59.7792	21.374	European Envioronmental Agency (EEA)	2026-03-07	4.607796041666667	4.541874408721924	5.971585273742676	Good	Good	
+4	SPO-FI00427_00005_100	Matorova	Finland	background	68.0005	24.2457	European Envioronmental Agency (EEA)	2026-03-07	2.983374	3.5836544036865234	3.1621830463409424	Good	Good	
+5	SPO-FI00549_00005_100	Pirkankatu	Finland	traffic	61.4987	23.7357	European Envioronmental Agency (EEA)	2026-03-07	4.991468	1.2263456583023071	3.598785638809204	Good	Good	
+6	SPO-FI00838_00005_100	Epila 2	Finland	traffic	61.5085	23.6758	European Envioronmental Agency (EEA)	2026-03-07	16.355760333333336	1.5219120979309082	3.6048498153686523	Good	Good	
+7	SPO-FI00208_00005_101	Luukki	Finland	background	60.3144	24.6849	European Envioronmental Agency (EEA)	2026-03-07	3.861766391304348	4.281136989593506	4.851848602294922	Good	Good	
+8	SPO-FI00370_00005_100	Tikkurila 3	Finland	traffic	60.2899	25.0395	European Envioronmental Agency (EEA)	2026-03-07	11.58153125	6.813622951507568	6.937886714935303	Good	Good	
+9	SPO-FI00425_00005_100	Kallio 2	Finland	background	60.1874	24.9506	European Envioronmental Agency (EEA)	2026-03-07	10.959629958333332	6.427572727203369	6.58649206161499	Good	Good	
+10	SPO-FI00564_00005_100	Mannerheimintie	Finland	traffic	60.1696	24.9392	European Envioronmental Agency (EEA)	2026-03-07	24.203314750000004	6.492311954498291	7.2554731369018555	Good	Good	
+11	SPO-FI00781_00005_100	Vartiokylä Huivipolku	Finland	background	60.2239	25.1024	European Envioronmental Agency (EEA)	2026-03-07	9.937303458333334	6.526594638824463	6.601791858673096	Good	Good	
+12	SPO-FI00841_00005_100	Leppävaara 4	Finland	traffic	60.2202	24.8113	European Envioronmental Agency (EEA)	2026-03-07	16.377201916666667	6.563111782073975	6.1401262283325195	Good	Good	
+13	SPO-FI00301_00005_100	Pyykösjärvi	Finland	background	65.0434	25.4979	European Envioronmental Agency (EEA)	2026-03-07	3.2310538333333336	2.880774736404419	2.786252975463867	Good	Good	
+14	SPO-FI00446_00005_100	Oulun keskusta 2	Finland	traffic	65.01	25.4713	European Envioronmental Agency (EEA)	2026-03-07	5.550321458333333	3.892178773880005	3.677565813064575	Good	Good	
+15	SPO-FI00952_00005_100	Jyväskylä Hannikaisenkatu	Finland	traffic	62.2382	25.7479	European Envioronmental Agency (EEA)	2026-03-07	3.6940137500000003	1.807840347290039	4.4745049476623535	Good	Good	
+16	SPO-FI00455_00005_100	Laune	Finland	traffic	60.967	25.6549	European Envioronmental Agency (EEA)	2026-03-07	5.503580500000001	2.444138526916504	4.5297746658325195	Good	Good	
+17	SPO-FI00889_00005_100	Saimaankatu	Finland	traffic	60.9913	25.6658	European Envioronmental Agency (EEA)	2026-03-07	4.476927208333334	3.284695863723755	4.744283676147461	Good	Good	
+18	SPO-FI00444_00005_100	Naantalin keskusta	Finland	traffic	60.4674	22.0284	European Envioronmental Agency (EEA)	2026-03-07	6.9041265	4.4317450523376465	5.827517509460449	Good	Good	
+19	SPO-FI00558_00005_100	Maaherrankatu	Finland	traffic	62.8933	27.6869	European Envioronmental Agency (EEA)	2026-03-07	4.094243583333333	1.041385531425476	2.3721911907196045	Good	Good	
+20	SPO-FI00839_00005_100	Tasavallankatu	Finland	traffic	62.882	27.6619	European Envioronmental Agency (EEA)	2026-03-07	4.380542541666667	1.1956523656845093	2.8937392234802246	Good	Good	
+21	SPO-FI00928_00005_100	Pori Paanakedonkatu	Finland	traffic	61.4823	21.8133	European Envioronmental Agency (EEA)	2026-03-07	12.537209625000001	2.0152971744537354	4.856610298156738	Good	Good	
+22	SPO-FI00424_00005_100	Mansikkala	Finland	traffic	61.1889	28.7701	European Envioronmental Agency (EEA)	2026-03-07	5.537353416666668	3.60094952583313	5.235432147979736	Good	Good	
+23	SPO-FI00433_00005_100	Teppanala	Finland	industrial	61.153	28.8101	European Envioronmental Agency (EEA)	2026-03-07	6.274120739130435	6.602025508880615	7.343472003936768	Good	Good	
+24	SPO-FI00606_00005_100	Lappeenrannan keskusta 4	Finland	traffic	61.0558	28.1843	European Envioronmental Agency (EEA)	2026-03-07	4.272978083333334	4.239531993865967	6.117431640625	Good	Good	
+25	SPO-FI00972_00005_100	Lohja Harjula	Finland	background	60.249	24.0695	European Envioronmental Agency (EEA)	2026-03-07	9.140545375	7.66826868057251	8.23253345489502	Good	Good	
+26	SPO-FI00892_00005_100	Kankaan Koulu	Finland	traffic	60.8704	26.701	European Envioronmental Agency (EEA)	2026-03-07	6.2041304166666675	5.7289276123046875	6.967667102813721	Good	Good	
+27	SPO-FI00179_00005_100	Pirkkala	Finland	industrial	61.3316	22.1431	European Envioronmental Agency (EEA)	2026-03-07	10.050546041666667	6.803183078765869	7.446775436401367	Good	Good	
+28	SPO-FI00184_00005_100	Kaleva	Finland	industrial	61.3135	22.135	European Envioronmental Agency (EEA)	2026-03-07	13.077389916666668	6.202307224273682	6.945526123046875	Good	Good	
+29	SPO-FI00397_00005_100	Bottenviksvägen	Finland	traffic	63.6791	22.7184	European Envioronmental Agency (EEA)	2026-03-07	3.745345625	-2.9545199871063232	-1.1743355989456177	Good	Good	
+30	SPO-IS0005A_00005_103	Reykjavik Grensas	Iceland	traffic	64.1301	-21.8747	European Envioronmental Agency (EEA)	2026-03-07	11.483541666666667	27.36356544494629	27.51950454711914	Moderate	Moderate	
+31	SPO-IS0052A_00005_100	Akureyri Strandgata (við Hof)	Iceland	traffic	65.6841	-18.0882	European Envioronmental Agency (EEA)	2026-03-07	14.041666666666666	16.432554244995117	20.334897994995117	Good	Good	
+32	SPO-IS0025A_00005_100	Grundartangi Kríuvarða	Iceland	industrial	64.3736	-21.7591	European Envioronmental Agency (EEA)	2026-03-07		9.120552062988281	8.14853572845459	Good	Good	
+33	SPO-IS0041A_00005_100	Grundartangi Gröf	Iceland	industrial	64.3342	-21.8357	European Envioronmental Agency (EEA)	2026-03-07	11.190299999999999	9.069012641906738	7.408524036407471	Good	Good	
+34	SPO-IS0037A_00005_100	Kópavogur Dalsmári	Iceland	background	64.105	-21.889	European Envioronmental Agency (EEA)	2026-03-07	10.917625000000001	19.200042724609375	19.003517150878906	Good	Good	
+35	SPO-IS0046A_00005_101	Hafnarfjörður Norðurhella	Iceland	background	64.0442	-21.9854	European Envioronmental Agency (EEA)	2026-03-07	13.9463875	14.7714262008667	14.218701362609863	Good	Good	
+36	SPO-IS0049A_00005_100	PCC norður	Iceland	industrial	66.0793	-17.3422	European Envioronmental Agency (EEA)	2026-03-07		3.0654170513153076	3.2913100719451904	Good	Good	
+37	SPO-IS0050A_00005_100	PCC suður	Iceland	industrial	66.0549	-17.3476	European Envioronmental Agency (EEA)	2026-03-07		14.838878631591797	13.954264640808105	Good	Good	
+38	SPO_NO0093A_5_1039	Hjortnes	Norway	traffic	59.9113	10.704	European Envioronmental Agency (EEA)	2026-03-07	18.83291666666667	17.02765464782715	19.95281982421875	Good	Good	
+39	SPO_NO0095A_5_934	Smestad	Norway	traffic	59.9325	10.6699	European Envioronmental Agency (EEA)	2026-03-07	22.152772708333334	22.602941513061523	26.123380661010742	Good	Moderate	
+40	SPO_NO0122A_5_2945	E6 Alna senter	Norway	traffic	59.9256	10.8504	European Envioronmental Agency (EEA)	2026-03-07	24.379070875	23.152074813842773	24.77947235107422	Good	Good	
+41	SPO_NO0011A_5_19	Kirkeveien	Norway	traffic	59.9323	10.7245	European Envioronmental Agency (EEA)	2026-03-07	20.4709865	18.544336318969727	20.814971923828125	Good	Good	
+42	SPO_NO0057A_5_41	Alnabru	Norway	traffic	59.9277	10.8466	European Envioronmental Agency (EEA)	2026-03-07	20.587994333333334	20.692169189453125	22.19809341430664	Good	Good	
+43	SPO_NO0072A_5_352	Skøyen	Norway	background	59.9197	10.6897	European Envioronmental Agency (EEA)	2026-03-07	23.765103125	18.39216423034668	19.947677612304688	Good	Good	
+44	SPO_NO0073A_5_552	Sofienbergparken	Norway	background	59.923	10.7657	European Envioronmental Agency (EEA)	2026-03-07	21.365399250000007	20.144372940063477	20.0310001373291	Good	Good	
+45	SPO_NO0083A_5_793	Bygdøy Alle	Norway	traffic	59.9193	10.6965	European Envioronmental Agency (EEA)	2026-03-07	21.400000000000002	23.454740524291992	26.623615264892578	Good	Moderate	
+46	SPO_NO0140A_5_3171	Spikersuppa	Norway	background	59.9141	10.736	European Envioronmental Agency (EEA)	2026-03-07	20.655120416666666	13.870307922363281	14.614043235778809	Good	Good	
+47	SPO_NO0059A_5_11	Danmarks plass	Norway	traffic	60.3741	5.3404	European Envioronmental Agency (EEA)	2026-03-07	28.25126366666667	33.18830490112305	29.033279418945312	Moderate	Moderate	
+48	SPO_NO0108A_5_2071	Rolland Åsane	Norway	background	60.4627	5.3324	European Envioronmental Agency (EEA)	2026-03-07	20.138850416666667	22.319372177124023	19.966848373413086	Good	Good	
+49	SPO_NO0109A_5_2067	Loddefjord	Norway	traffic	60.3611	5.2369	European Envioronmental Agency (EEA)	2026-03-07	30.903795833333334	35.068756103515625	30.424436569213867	Moderate	Moderate	
+50	SPO_NO0120A_5_2902	Klosterhaugen	Norway	background	60.3959	5.3127	European Envioronmental Agency (EEA)	2026-03-07	27.683373	32.09054946899414	28.13108253479004	Moderate	Moderate	
+51	SPO_NO0121A_5_2888	Rådal	Norway	traffic	60.2943	5.3246	European Envioronmental Agency (EEA)	2026-03-07	29.27759283333334	35.388633728027344	29.29188346862793	Moderate	Moderate	
+52	SPO_NO0135A_5_3126	Backeparken	Norway	background	59.7495	10.1653	European Envioronmental Agency (EEA)	2026-03-07		9.462077140808105	10.012648582458496	Good	Good	
+53	SPO_NO0136A_5_3124	Vårveien	Norway	traffic	59.7536	10.1444	European Envioronmental Agency (EEA)	2026-03-07	25.766947416666667	18.929670333862305	18.81454086303711	Good	Good	
+54	SPO_NO0060A_5_1685	Elgeseter	Norway	traffic	63.4174	10.3968	European Envioronmental Agency (EEA)	2026-03-07	7.134788583333333	12.892413139343262	14.86758804321289	Good	Good	
+55	SPO_NO0102A_5_1530	E6-Tiller	Norway	traffic	63.3576	10.3717	European Envioronmental Agency (EEA)	2026-03-07	23.678037173913047	18.22927474975586	19.159570693969727	Good	Good	
+56	SPO_NO0106A_5_1231	Sverresgate	Norway	traffic	59.1382	9.6522	European Envioronmental Agency (EEA)	2026-03-07	20.735	19.26239585876465	19.075159072875977	Good	Good	
+57	SPO_NO0115A_5_2473	Furulund	Norway	industrial	59.0573	9.6956	European Envioronmental Agency (EEA)	2026-03-07	30.26488504166667	29.273942947387695	26.46063995361328	Moderate	Moderate	
+58	SPO_NO0118A_5_2723	Knarrdalstranda	Norway	background	59.1335	9.6219	European Envioronmental Agency (EEA)	2026-03-07	31.300281083333335	21.9797306060791	21.31333351135254	Good	Good	
+59	SPO_NO0063A_5_192	Stener Heyerdahl	Norway	background	58.1489	7.9918	European Envioronmental Agency (EEA)	2026-03-07	26.606737999999996	21.015817642211914	19.061037063598633	Good	Good	
+60	SPO_NO0065A_5_52	Våland	Norway	background	58.9616	5.7314	European Envioronmental Agency (EEA)	2026-03-07	40.991220750000004	29.98749351501465	26.204574584960938	Moderate	Moderate	
+61	SPO_NO0076A_5_46	Kannik	Norway	traffic	58.9642	5.7279	European Envioronmental Agency (EEA)	2026-03-07	43.22131195833334	30.903005599975586	27.344507217407227	Moderate	Moderate	
+62	SPO_NO0125A_5_3017	Schancheholen	Norway	traffic	58.9519	5.7219	European Envioronmental Agency (EEA)	2026-03-07	47.943440875	26.38226318359375	23.34580421447754	Moderate	Good	
+63	SPO_NO0074A_5_539	Bankplassen	Norway	traffic	61.1129	10.4649	European Envioronmental Agency (EEA)	2026-03-07	18.662480125	23.027238845825195	27.46733856201172	Good	Moderate	
+64	SPO_NO0075A_5_544	Lillehammer barnehage	Norway	background	61.1209	10.4656	European Envioronmental Agency (EEA)	2026-03-07	15.864024958333337	15.718242645263672	17.523296356201172	Good	Good	
+65	SPO_NO0079A_5_392	Hansjordnesbukta	Norway	traffic	69.6562	18.9637	European Envioronmental Agency (EEA)	2026-03-07	11.84509	4.241756916046143	6.677177906036377	Good	Good	
+66	SPO_NO0124A_5_2957	Rambergan	Norway	background	69.6543	18.9564	European Envioronmental Agency (EEA)	2026-03-07	9.485742625	12.978893280029297	12.655304908752441	Good	Good	
+67	SPO_NO0084A_5_967	St.Croix	Norway	traffic	59.2103	10.9454	European Envioronmental Agency (EEA)	2026-03-07	28.14548458333334	27.960275650024414	24.808385848999023	Moderate	Good	
+68	SPO_NO0114A_5_2325	Bekkestua	Norway	background	59.9182	10.5839	European Envioronmental Agency (EEA)	2026-03-07	25.27916666666667	18.564783096313477	20.44585418701172	Good	Good	
+69	SPO_NO0110A_5_2064	Alvim	Norway	traffic	59.2738	11.0892	European Envioronmental Agency (EEA)	2026-03-07	26.334723125	24.96638298034668	21.692724227905273	Good	Good	
+70	SPO_NO0112A_5_1221	Kransen	Norway	traffic	59.4335	10.6618	European Envioronmental Agency (EEA)	2026-03-07	22.86712575	15.966667175292969	14.262619972229004	Good	Good	
+71	SPO_NO0119A_5_2701	Leiret	Norway	traffic	60.8836	11.5593	European Envioronmental Agency (EEA)	2026-03-07	10.167437041666666	21.52168846130371	26.21316909790039	Good	Moderate	
+72	SPO_NO0128A_5_2972	Nedre Langgate	Norway	traffic	59.2637	10.4112	European Envioronmental Agency (EEA)	2026-03-07	37.02965833333334	13.760045051574707	12.262397766113281	Good	Good	
+73	SPO_NO0129A_5_2950	Solheim	Norway	traffic	59.9286	10.9532	European Envioronmental Agency (EEA)	2026-03-07	26.55474166666667	20.28261375427246	21.797340393066406	Good	Good	
+74	SPO_NO0127A_5_2964	Seljestad Rv83	Norway	traffic	68.7922	16.5374	European Envioronmental Agency (EEA)	2026-03-07	3.25616975	10.458125114440918	5.430741786956787	Good	Good	
+75	SPO_NO0130A_5_3000	Ringsakervegen	Norway	traffic	60.8859	10.9379	European Envioronmental Agency (EEA)	2026-03-07	23.95	17.9027042388916	18.42684555053711	Good	Good	
+76	SPO-SE0001A_00005_100	Malmö Rådhuset	Sweden	background	55.6064	13.002	European Envioronmental Agency (EEA)	2026-03-07	39.69583333333333	27.993391036987305	26.369443893432617	Moderate	Moderate	
+77	SPO-SE0058A_00005_100	Malmö Dalaplan	Sweden	traffic	55.5847	13.0062	European Envioronmental Agency (EEA)	2026-03-07	48.45416666666667	38.99878692626953	35.80841064453125	Moderate	Moderate	
+78	SPO-SE0085A_00005_101	Helsingborg Drottninggatan	Sweden	traffic	56.0472	12.6916	European Envioronmental Agency (EEA)	2026-03-07	47.665416666666665	22.3002872467041	22.009441375732422	Good	Good	
+79	SPO-SE38350_00005_100	Lund Trollebergsvägen	Sweden	traffic	55.7033	13.1803	European Envioronmental Agency (EEA)	2026-03-07	41.117916666666666	19.57514762878418	19.67060661315918	Good	Good	
+80	SPO-SE344172_00005_100	Västerås Stora Gatan 78	Sweden	traffic	59.6077	16.5359	European Envioronmental Agency (EEA)	2026-03-07	12.291000000000002	35.45912170410156	39.906917572021484	Moderate	Moderate	
+81	SPO-SE0003A_00005_100	Stockholm Hornsgatan 108 Gata	Sweden	traffic	59.3172	18.0487	European Envioronmental Agency (EEA)	2026-03-07	12.963662416666665	14.860180854797363	18.010984420776367	Good	Good	
+82	SPO-SE0022A_00005_100	Stockholm Torkel Knutssongatan	Sweden	background	59.316	18.0578	European Envioronmental Agency (EEA)	2026-03-07	11.308991624999999	10.498209953308105	11.46489429473877	Good	Good	
+83	SPO-SE0027A_00005_100	Stockholm Sveavägen 59 Gata	Sweden	traffic	59.3408	18.0583	European Envioronmental Agency (EEA)	2026-03-07	15.84866241666667	16.031448364257812	18.008020401000977	Good	Good	
+84	SPO-SE0066A_00005_100	Norr Malma	Sweden	background	59.8324	18.6313	European Envioronmental Agency (EEA)	2026-03-07	6.174529124999999	5.537479400634766	6.035073280334473	Good	Good	
+85	SPO-SE0071A_00005_100	Sollentuna E4 Häggvik	Sweden	traffic	59.4435	17.9224	European Envioronmental Agency (EEA)	2026-03-07	11.770366625	9.761639595031738	11.916557312011719	Good	Good	
+86	SPO-SE0072A_00005_100	Södertälje Turingegatan 26	Sweden	traffic	59.1981	17.6211	European Envioronmental Agency (EEA)	2026-03-07	22.19299979166667	14.7627534866333	16.776275634765625	Good	Good	
+87	SPO-SE0117A_00005_101	Visby Österväg 17	Sweden	traffic	57.6369	18.3036	European Envioronmental Agency (EEA)	2026-03-07	41.349583125	38.31985092163086	40.08505630493164	Moderate	Moderate	
+88	SPO-SE156417_00005_100	Uppsala Kungsgatan 67	Sweden	traffic	59.8571	17.6463	European Envioronmental Agency (EEA)	2026-03-07	8.43902075	14.438031196594238	16.58176040649414	Good	Good	
+89	SPO-SE157992_00005_100	Stockholm St Eriksgatan 83	Sweden	traffic	59.3405	18.037	European Envioronmental Agency (EEA)	2026-03-07	13.110816666666667	13.924156188964844	17.10919761657715	Good	Good	
+90	SPO-SE159402_00005_100	Sollentuna Danderydsvägen	Sweden	traffic	59.4459	17.955	European Envioronmental Agency (EEA)	2026-03-07	6.19035825	8.309782981872559	11.978713035583496	Good	Good	
+91	SPO-SE159404_00005_100	Uppsala Dragarbrunnsgatan 23 tak	Sweden	background	59.8605	17.6376	European Envioronmental Agency (EEA)	2026-03-07	7.600483291666667	10.304635047912598	10.721002578735352	Good	Good	
+92	SPO-SE274652_00005_100	Sollentuna Sollentunavägen 192	Sweden	traffic	59.4336	17.9497	European Envioronmental Agency (EEA)	2026-03-07	10.5429125	13.15493106842041	15.80811595916748	Good	Good	
+93	SPO-SE301111_00005_100	Norrköping Kungsgatan 32	Sweden	traffic	58.5915	16.1779	European Envioronmental Agency (EEA)	2026-03-07	26.23320829166667	16.197776794433594	13.889074325561523	Good	Good	
+94	SPO-SE301113_00005_100	Norrköping Trädgårdsgatan 21	Sweden	background	58.592	16.1893	European Envioronmental Agency (EEA)	2026-03-07	24.866125	12.128575325012207	10.741463661193848	Good	Good	
+95	SPO-SE301757_00005_100	Sundbyberg Tulegatan 9	Sweden	traffic	59.3643	17.9763	European Envioronmental Agency (EEA)	2026-03-07	12.030395791666669	17.303510665893555	18.633922576904297	Good	Good	
+96	SPO-SE313381_00005_100	Visby Brömsebroväg 8	Sweden	background	57.6399	18.3097	European Envioronmental Agency (EEA)	2026-03-07	26.953166625000005	16.100021362304688	16.123966217041016	Good	Good	
+97	SPO-SE338683_00005_100	Gävle Staketgatan 22	Sweden	traffic	60.6762	17.1376	European Envioronmental Agency (EEA)	2026-03-07	28.970949875000002	26.262807846069336	26.95676040649414	Moderate	Moderate	
+98	SPO-SE338685_00005_100	Linköping Hamngatan 10	Sweden	traffic	58.4124	15.6301	European Envioronmental Agency (EEA)	2026-03-07	26.733541625	26.946868896484375	23.232908248901367	Moderate	Good	
+99	SPO-SE37479_00005_100	Sollentuna Ekmans Väg 11	Sweden	traffic	59.489	17.9199	European Envioronmental Agency (EEA)	2026-03-07	10.578883249999999	13.338753700256348	14.875170707702637	Good	Good	
+100	SPO-SE0004A_00005_100	Göteborg Femman	Sweden	background	57.709	11.9702	European Envioronmental Agency (EEA)	2026-03-07	23.910845833333337	26.565628051757812	24.84408187866211	Moderate	Good	
+101	SPO-SE0005R_00005_101	Bredkälen	Sweden	background	63.8455	15.3197	European Envioronmental Agency (EEA)	2026-03-07	1.4666666666666668	1.5104109048843384	1.6034858226776123	Good	Good	
+102	SPO-SE0014R_00005_100	Råö	Sweden	background	57.3936	11.9142	European Envioronmental Agency (EEA)	2026-03-07	25.5625	18.27532958984375	17.268360137939453	Good	Good	
+103	SPO-SE159388_00005_101	Norunda Stenen	Sweden	background	60.0858	17.5053	European Envioronmental Agency (EEA)	2026-03-07	2.560647826086957	4.283597946166992	5.1617255210876465	Good	Good	
+104	SPO-SE0021A_00005_100	Göteborg Gårda	Sweden	traffic	57.7009	11.9946	European Envioronmental Agency (EEA)	2026-03-07	46.366666666666674	43.4119873046875	42.30046081542969	Moderate	Moderate	
+105	SPO-SE0067A_00005_100	Göteborg Haga	Sweden	traffic	57.6979	11.9605	European Envioronmental Agency (EEA)	2026-03-07	26.224474999999998	22.036752700805664	21.558557510375977	Good	Good	
+106	SPO-SE274590_00005_100	Göteborg Övre Husargatan	Sweden	traffic	57.6937	11.9568	European Envioronmental Agency (EEA)	2026-03-07	26.14153333333334	21.620981216430664	21.693029403686523	Good	Good	
+107	SPO-SE165095_00005_100	Hedemora Gussarvsgatan	Sweden	traffic	60.2814	15.9891	European Envioronmental Agency (EEA)	2026-03-07	13.688041666666669	18.639610290527344	21.399574279785156	Good	Good	
+108	SPO-SE0095A_00005_100	Sundsvall Köpmangatan	Sweden	traffic	62.3886	17.3089	European Envioronmental Agency (EEA)	2026-03-07	3.4830416666666664	3.9925849437713623	5.447716236114502	Good	Good	
+109	SPO-SE09569_00005_100	Sundsvall Bergsgatan	Sweden	traffic	62.3865	17.3032	European Envioronmental Agency (EEA)	2026-03-07	3.582916666666667	3.2608642578125	4.998501777648926	Good	Good	
+110	SPO-SE313140_00005_100	Örnsköldsvik Centralesplanaden - Nygatan 24	Sweden	traffic	63.2918	18.7175	European Envioronmental Agency (EEA)	2026-03-07	7.408333333333334	6.7559661865234375	6.719204902648926	Good	Good	
+111	SPO-SE181002_00005_100	Växjö Liedbergsgatan 11	Sweden	traffic	56.8799	14.7993	European Envioronmental Agency (EEA)	2026-03-07	115.8125	18.284059524536133	17.03734016418457	Good	Good	
+112	SPO-SE32288_00005_100	Karlskrona N Smedjegatan Ö Köpmansgatan	Sweden	traffic	56.164	15.5889	European Envioronmental Agency (EEA)	2026-03-07	70.65833333333335	15.001723289489746	13.70932674407959	Good	Good	
+113	SPO-SE181993_00005_100	Kalmar Södra Vägen	Sweden	traffic	56.6642	16.3336	European Envioronmental Agency (EEA)	2026-03-07	55.81666666666666	23.711477279663086	20.641061782836914	Good	Good	
+114	SPO-SE181259_00005_100	Östersund Rådhusgatan	Sweden	traffic	63.1739	14.6411	European Envioronmental Agency (EEA)	2026-03-07	5.583333333333333	4.319714069366455	6.472049236297607	Good	Good	
+115	SPO-SE0059A_00005_100	Umeå Västra Esplanaden	Sweden	traffic	63.8289	20.2585	European Envioronmental Agency (EEA)	2026-03-07	4.691666666666667	1.0327643156051636	1.675278663635254	Good	Good	
+116	SPO-SE274953_00005_100	Skellefteå Kv Pantern	Sweden	traffic	64.7495	20.9601	European Envioronmental Agency (EEA)	2026-03-07	9.769191666666668	-4.6869306564331055	-5.383126258850098	Good	Good	
+117	FI_5_101983	Muonio Sammaltunturi	Finland		67.97	24.12	Finnish Meteorological Institute (FMI)	2026-03-07	2.9124999999999996	3.9640109539031982	3.23425555229187	Good	Good	
