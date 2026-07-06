@@ -1,0 +1,38 @@
+	Station Code	Station Name	Country	Station type	Latitude	Longitude	Network	Date	PM10 measured concentration (microg/m^3)	PM10 today forecast mean concentration (microg/m^3)	PM10 tomorrow forecast mean concentration (microg/m^3)	Today air quality	Tomorrow air quality	Actions
+0	SPO-DK0034A_00005_100	Copenhagen/1103	Denmark	traffic	55.6743	12.5711	European Envioronmental Agency (EEA)	2026-07-05		47.85331344604492	43.0307502746582	Unhealthy	Moderate	
+1	SPO-DK0012R_00005_101	Risoe	Denmark	background	55.6942	12.0889	European Envioronmental Agency (EEA)	2026-07-05		16.953317642211914	14.733133316040039	Good	Good	
+2	SPO-FI00349_00005_100	Utö	Finland	background	59.7792	21.374	European Envioronmental Agency (EEA)	2026-07-05	4.744394000000001	3.2639379501342773	2.8876378536224365	Good	Good	
+3	SPO-FI00427_00005_100	Matorova	Finland	background	68.0005	24.2457	European Envioronmental Agency (EEA)	2026-07-05	6.805155	5.605679988861084	4.8407745361328125	Good	Good	
+4	SPO-FI00549_00005_100	Pirkankatu	Finland	traffic	61.4987	23.7357	European Envioronmental Agency (EEA)	2026-07-05	8.511014000000001	1.1084977388381958	1.0090758800506592	Good	Good	
+5	SPO-FI00838_00005_100	Epila 2	Finland	traffic	61.5085	23.6758	European Envioronmental Agency (EEA)	2026-07-05	5.861211000000001	0.4607970416545868	0.7743140459060669	Good	Good	
+6	SPO-FI00208_00005_101	Luukki	Finland	background	60.3144	24.6849	European Envioronmental Agency (EEA)	2026-07-05	9.026992	5.038518905639648	5.237468719482422	Good	Good	
+7	SPO-FI00370_00005_100	Tikkurila 3	Finland	traffic	60.2899	25.0395	European Envioronmental Agency (EEA)	2026-07-05	8.666871	3.7928402423858643	3.9471189975738525	Good	Good	
+8	SPO-FI00425_00005_100	Kallio 2	Finland	background	60.1874	24.9506	European Envioronmental Agency (EEA)	2026-07-05	10.99753	6.1560750007629395	5.73124361038208	Good	Good	
+9	SPO-FI00564_00005_100	Mannerheimintie	Finland	traffic	60.1696	24.9392	European Envioronmental Agency (EEA)	2026-07-05	15.05834	5.816370487213135	5.321151256561279	Good	Good	
+10	SPO-FI00781_00005_100	Vartiokylä Huivipolku	Finland	background	60.2239	25.1024	European Envioronmental Agency (EEA)	2026-07-05	9.340486	6.1701226234436035	5.938293933868408	Good	Good	
+11	SPO-FI00841_00005_100	Leppävaara 4	Finland	traffic	60.2202	24.8113	European Envioronmental Agency (EEA)	2026-07-05	10.53268	4.9970784187316895	4.772970676422119	Good	Good	
+12	SPO-FI00301_00005_100	Pyykösjärvi	Finland	background	65.0434	25.4979	European Envioronmental Agency (EEA)	2026-07-05	5.21325	2.300326347351074	1.968737006187439	Good	Good	
+13	SPO-FI00446_00005_100	Oulun keskusta 2	Finland	traffic	65.01	25.4713	European Envioronmental Agency (EEA)	2026-07-05	8.270642	5.020927429199219	4.1887102127075195	Good	Good	
+14	SPO-FI00952_00005_100	Jyväskylä Hannikaisenkatu	Finland	traffic	62.2382	25.7479	European Envioronmental Agency (EEA)	2026-07-05	9.545556	0.41152334213256836	-0.11349396407604218	Good	Good	
+15	SPO-FI00455_00005_100	Laune	Finland	traffic	60.967	25.6549	European Envioronmental Agency (EEA)	2026-07-05	9.299433	-0.959865152835846	-1.9177334308624268	Good	Good	
+16	SPO-FI00889_00005_100	Saimaankatu	Finland	traffic	60.9913	25.6658	European Envioronmental Agency (EEA)	2026-07-05	14.773039	3.9153079986572266	2.8622241020202637	Good	Good	
+17	SPO-FI00444_00005_100	Naantalin keskusta	Finland	traffic	60.4674	22.0284	European Envioronmental Agency (EEA)	2026-07-05	5.140116000000001	4.196138858795166	4.48081111907959	Good	Good	
+18	SPO-FI00558_00005_100	Maaherrankatu	Finland	traffic	62.8933	27.6869	European Envioronmental Agency (EEA)	2026-07-05	6.943564	-0.22575585544109344	-0.06352565437555313	Good	Good	
+19	SPO-FI00839_00005_100	Tasavallankatu	Finland	traffic	62.882	27.6619	European Envioronmental Agency (EEA)	2026-07-05	6.039652	-1.4275842905044556	-1.0274635553359985	Good	Good	
+20	SPO-FI00928_00005_100	Pori Paanakedonkatu	Finland	traffic	61.4823	21.8133	European Envioronmental Agency (EEA)	2026-07-05	9.957145	0.14908432960510254	1.3281744718551636	Good	Good	
+21	SPO-FI00424_00005_100	Mansikkala	Finland	traffic	61.1889	28.7701	European Envioronmental Agency (EEA)	2026-07-05	5.0083910000000005	1.3081731796264648	0.7352557182312012	Good	Good	
+22	SPO-FI00433_00005_100	Teppanala	Finland	industrial	61.153	28.8101	European Envioronmental Agency (EEA)	2026-07-05	3.762922	4.227993488311768	3.992434024810791	Good	Good	
+23	SPO-FI00606_00005_100	Lappeenrannan keskusta 4	Finland	traffic	61.0558	28.1843	European Envioronmental Agency (EEA)	2026-07-05	7.370888000000001	3.3727495670318604	2.406912326812744	Good	Good	
+24	SPO-FI00972_00005_100	Lohja Harjula	Finland	background	60.249	24.0695	European Envioronmental Agency (EEA)	2026-07-05	8.642747	4.424569606781006	4.471646785736084	Good	Good	
+25	SPO-FI00179_00005_100	Pirkkala	Finland	industrial	61.3316	22.1431	European Envioronmental Agency (EEA)	2026-07-05	10.069018000000002	7.083921909332275	6.76296329498291	Good	Good	
+26	SPO-FI00184_00005_100	Kaleva	Finland	industrial	61.3135	22.135	European Envioronmental Agency (EEA)	2026-07-05	8.79817	5.376951694488525	5.209272861480713	Good	Good	
+27	SPO-FI00397_00005_100	Bottenviksvägen	Finland	traffic	63.6791	22.7184	European Envioronmental Agency (EEA)	2026-07-05	19.06954	1.6604210138320923	1.5825645923614502	Good	Good	
+28	SPO-IS0005A_00005_103	Reykjavik Grensas	Iceland	traffic	64.1301	-21.8747	European Envioronmental Agency (EEA)	2026-07-05	6.9274	9.92383861541748	6.948840141296387	Good	Good	
+29	SPO-IS0052A_00005_100	Akureyri Strandgata (við Hof)	Iceland	traffic	65.6841	-18.0882	European Envioronmental Agency (EEA)	2026-07-05	6.0	8.303461074829102	4.996127128601074	Good	Good	
+30	SPO-IS0025A_00005_100	Grundartangi Kríuvarða	Iceland	industrial	64.3736	-21.7591	European Envioronmental Agency (EEA)	2026-07-05	8.876800000000001	6.580069065093994	5.971039295196533	Good	Good	
+31	SPO-IS0041A_00005_100	Grundartangi Gröf	Iceland	industrial	64.3342	-21.8357	European Envioronmental Agency (EEA)	2026-07-05	3.5160000000000005	3.150359869003296	2.9953417778015137	Good	Good	
+32	SPO-IS0037A_00005_100	Kópavogur Dalsmári	Iceland	background	64.105	-21.889	European Envioronmental Agency (EEA)	2026-07-05	5.4469	9.468119621276855	7.967854976654053	Good	Good	
+33	SPO-IS0046A_00005_101	Hafnarfjörður Norðurhella	Iceland	background	64.0442	-21.9854	European Envioronmental Agency (EEA)	2026-07-05		7.070293426513672	7.085895538330078	Good	Good	
+34	SPO-IS0049A_00005_100	PCC norður	Iceland	industrial	66.0793	-17.3422	European Envioronmental Agency (EEA)	2026-07-05		2.6785781383514404	2.4726765155792236	Good	Good	
+35	SPO-IS0050A_00005_100	PCC suður	Iceland	industrial	66.0549	-17.3476	European Envioronmental Agency (EEA)	2026-07-05		6.743788242340088	6.123956203460693	Good	Good	
+36	FI_5_101983	Muonio Sammaltunturi	Finland		67.97	24.12	Finnish Meteorological Institute (FMI)	2026-07-05	5.045833333333333	4.738219738006592	4.046377658843994	Good	Good	
