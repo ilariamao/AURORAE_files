@@ -1,2 +1,0 @@
-/eos/jeodpp/data/projects/ARCTIC/acuzzuco/Evaluation/eval_results_original_2024/SPO_NO0074A_5_539/SPO_NO0074A_5_539-2024-12-02/SPO_NO0074A_5_539-2024-12-02-preds.npy
-/eos/jeodpp/data/projects/ARCTIC/acuzzuco/Evaluation/eval_results_original_2024/SPO_NO0074A_5_539/SPO_NO0074A_5_539-2024-12-03/SPO_NO0074A_5_539-2024-12-03-preds.npy
